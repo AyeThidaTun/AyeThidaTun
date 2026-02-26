@@ -1,7 +1,3 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+[Your+Name]+👋;Full+Stack+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
-</h1>
-
 <p align="center">
   Hi!👋 I'm Anna, a recent graduate from SP with Diploma in Information Technology.
 </p>
